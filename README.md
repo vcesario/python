@@ -1,2 +1,2 @@
-# python
-Small useful code snippet made in python
+# python repo
+experiments and tools made in python
