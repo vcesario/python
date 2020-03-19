@@ -8,7 +8,7 @@ IDEIA DO ALGORITMO
 import os
 import re
 
-rootpath = 'C:\\Mgaia Studio\\Unity Projects\\Skyfish 2\\Assets\\Localization\\Resources\\Languages\\'
+rootpath = ''
 
 if rootpath == '' or not os.path.exists(rootpath):
     exit()
